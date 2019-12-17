@@ -7,3 +7,6 @@ Completed learning the basics of few Data Science libraries namely numpy, pandas
 Ps : I was busy contributing on an Open Source Project (Cleanpy) (which you can check out in my repo) causing a slight delay in updating the status.
 
 <img src="./Images/1.png" width="400" height="340">  <img src="./Images/2.png" width="450" height="340">
+
+## Day 2 & 3
+Studied the univariate linear regression model and developed the intuition of how the gradient descent can used to solve any general hypothesis. And also got my linear algebra basics revised. Loving the Stanford's ML course on Coursera. Highly recommended for getting to know the mathematics behind ML !!
