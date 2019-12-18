@@ -12,4 +12,4 @@ Ps : I was busy contributing on an Open Source Project (Cleanpy) (which you can 
 Studied the univariate linear regression model and developed the intuition of how the gradient descent can used to solve any general hypothesis. And also got my linear algebra basics revised. Loving the Stanford's ML course on Coursera. Highly recommended for getting to know the mathematics behind ML !!
 
 ## Day 4
-Learnt the normal equation method for solving linear regression models and also vectorisation of the Learning algorithms so as to efficiently implement in any programming Language. I also did learn the syntax and did few implementation of the algorithms in the Octave/ MATLAB programming language.
+Learnt the normal equation method for solving linear regression models and also vectorisation of the Learning algorithms so as to efficiently implement in any programming Language. I also did learn the syntax and did few implementations of the algorithms in the Octave/ MATLAB programming language.
