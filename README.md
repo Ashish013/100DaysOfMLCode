@@ -13,3 +13,6 @@ Studied the univariate linear regression model and developed the intuition of ho
 
 ## Day 4
 Learnt the normal equation method for solving linear regression models and also vectorisation of the Learning algorithms so as to efficiently implement in any programming Language. I also did learn the syntax and did few implementations of the algorithms in the Octave/ MATLAB programming language.
+
+## Day 5
+Finished reading the logistic regression and its vectorised implementation and also learnt how to to apply more advanced optimization algorithms like BFGS,L-BFGS in Octave. Also took time to develop the intuition of Neural networks.Today was so mentally exhausting. Still trying to digest the linear algebra of the sigmoid activation function of artificial neural network. Let's call it a day!!
