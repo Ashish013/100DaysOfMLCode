@@ -16,3 +16,7 @@ Learnt the normal equation method for solving linear regression models and also 
 
 ## Day 5
 Finished reading the logistic regression and its vectorised implementation and also learnt how to to apply more advanced optimization algorithms like BFGS,L-BFGS in Octave. Also took time to develop the intuition of Neural networks.Today was so mentally exhausting. Still trying to digest the linear algebra of the sigmoid activation function of artificial neural network. Let's call it a day!!
+
+## Day 6
+Studied the regularization method to dilute the overfitting problem and also learned the forward and back propagation  algorithm in neural networks and how gradient descent is used to solve them. Still trying to digest the information crunch on theneural networks and its learning algorithms. Neural networks as of now seem to be slightly complicated.Today is'nt a productive day for me, but none is for everyone everyday right ??
+Gonna try to gain a better intuition 'bout it tomorrow.
