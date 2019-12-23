@@ -20,3 +20,6 @@ Finished reading the logistic regression and its vectorised implementation and a
 ## Day 6
 Studied the regularization method to dilute the overfitting problem and also learned the forward and back propagation  algorithm in neural networks and how gradient descent is used to solve them. Still trying to digest the information crunch on theneural networks and its learning algorithms. Neural networks as of now seem to be slightly complicated.Today is'nt a productive day for me, but none is for everyone everyday right ??
 Gonna try to gain a better intuition 'bout it tomorrow.
+
+## Day 7 8 9
+I have been travelling a lot recently due to unavoidable reasons but still took time to work on ML and cleared the Neural Network misclarification (Still working on vectorized implementation though) and also successfully submitted the second week assignment. Yayy !!
