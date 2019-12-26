@@ -23,3 +23,7 @@ Gonna try to gain a better intuition 'bout it tomorrow.
 
 ## Day 7 8 9
 I have been travelling a lot recently due to unavoidable reasons but still took time to work on ML and cleared the Neural Network misclarification (Still working on vectorized implementation though) and also successfully submitted the second week assignment. Yayy !!
+
+## Day 10 & 11
+Finished the Week 3 assignment and started working on the neural network assignment (Let's see how it goes).ML is intriguing and fun (when we get the correct answers only). Loving this roller coaster ride !😀
+Still struggling to find the time to work more efficiently as possible due to the untimely travel 
