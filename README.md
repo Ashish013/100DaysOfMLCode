@@ -27,3 +27,8 @@ I have been travelling a lot recently due to unavoidable reasons but still took 
 ## Day 10 & 11
 Finished the Week 3 assignment and started working on the neural network assignment (Let's see how it goes).ML is intriguing and fun (when we get the correct answers only). Loving this roller coaster ride !😀
 Still struggling to find the time to work more efficiently as possible due to the untimely travel 
+
+## Day 12 13 14 15
+And it's a wrap for neural network assignment and understanding. I have been working on Adobe After effects recently so it took me time to complete the assignment and completely absorb the info crunch. What an end for the fabulous year it has been !!
+Made new friends, memories, emotions, few skills and mistakes in this journey of unraveling myself !! I' ll continue to update my journey in the upcoming year too 😂 until then 2020 here I come and remember I will keep on failimg forward more than ever!!
+
