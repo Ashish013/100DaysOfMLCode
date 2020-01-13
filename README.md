@@ -32,3 +32,5 @@ Still struggling to find the time to work more efficiently as possible due to th
 And it's a wrap for neural network assignment and understanding. I have been working on Adobe After effects recently so it took me time to complete the assignment and completely absorb the info crunch. What an end for the fabulous year it has been !!
 Made new friends, memories, emotions, few skills and mistakes in this journey of unraveling myself !! I' ll continue to update my journey in the upcoming year too 😂 until then 2020 here I come and remember I will keep on failimg forward more than ever!!
 
+## Day 16 - 23
+Spent the last week revising my ML notes and also started working on the next week's assignment on error metrics and basis/variance concepts. Still tweaking the handwritten image classifier and completely awestruck of how it works and at the same time that I can implement it makes it much more cool 😂
