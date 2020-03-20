@@ -46,3 +46,8 @@ Finished the SVM assignment and started learning about K - means algorithm and P
 
 ## Day 30 - 32
 Finished K-means and PCA assignment. Finished reading Anomaly detection algorithm and how its different from supervised learning. Also read about content based recommender system. Next up Collabrative filtering.
+
+## Day 33 - 34
+Finished reading about Collabrative filtering , Stochastic and Mini batch Gradient Descent . Also finished reading about Online learning algorithm and its uses (CTR etc) ; Map reduce & Data parallelism allowing speed up for large scale ML data sets.
+Then went on to complete reading about artificial data synthesis for Photo OCR pipeline .Also learned about ceiling analysis which provides insight on what component of pipeline to work on to maximize performance.
+ 
