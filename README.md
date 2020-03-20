@@ -32,5 +32,17 @@ Still struggling to find the time to work more efficiently as possible due to th
 And it's a wrap for neural network assignment and understanding. I have been working on Adobe After effects recently so it took me time to complete the assignment and completely absorb the info crunch. What an end for the fabulous year it has been !!
 Made new friends, memories, emotions, few skills and mistakes in this journey of unraveling myself !! I' ll continue to update my journey in the upcoming year too 😂 until then 2020 here I come and remember I will keep on failimg forward more than ever!!
 
-## Day 16 - 23
+## Day 16 - 20
 Spent the last week revising my ML notes and also started working on the next week's assignment on error metrics and basis/variance concepts. Still tweaking the handwritten image classifier and completely awestruck of how it works and at the same time that I can implement it makes it much more cool 😂
+
+## Day 20 - 23
+Shifted my focus towards Computer Vision for change in topic. Finished the basics of images and basic image operations as rootating images, drawing on them etc.
+
+## Day 24 - 27
+Its been a while since i last updated but from now on I'll try to  update frequentishly 🙃. Completed reading the SVM model, the kernels & its mathematical intuition. I will start focusing on unsupervised learning from tomorrow and wrap up supervised Learning
+
+## Day 28 - 30
+Finished the SVM assignment and started learning about K - means algorithm and Principal Component Analysis. Also got to know about Dimensionality reduction and data compression and how PCA is used to accomplish it. Next up recommender Systems.
+
+## Day 30 - 32
+Finished K-means and PCA assignment. Finished reading Anomaly detection algorithm and how its different from supervised learning. Also read about content based recommender system. Next up Collabrative filtering.
